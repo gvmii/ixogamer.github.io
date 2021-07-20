@@ -23,7 +23,7 @@ email: Ixogamer@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   En este blog subiré cosas que vea relevantes, como información sobre mi servidor de Minecraft, ayuda con servidores de Minecraft,
   o cosas así en general. AYAYA
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://ixogamer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Ixogamer_
 github_username:  Ixogamer
