@@ -29,7 +29,7 @@ twitter_username: Ixogamer_
 github_username:  Ixogamer
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
