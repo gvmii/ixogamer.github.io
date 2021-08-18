@@ -21,7 +21,7 @@
 title: Ixo.sh
 email: Ixogamer@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-A 15 year old's journey through the puzzles of We_Are_Alex.
+A 15 year old's journey through the puzzles of We_Are_Alex
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ixogamer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Ixogamer_
